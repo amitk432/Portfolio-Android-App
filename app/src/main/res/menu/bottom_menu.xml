@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/projects"
+        android:title="@string/projects"
+        android:icon="@drawable/projects"
+        android:onClick="projects"/>
+
+    <item
+        android:id="@+id/profilebutton"
+        android:title="@string/home"
+        android:onClick="profile"
+        android:icon="@drawable/icon_home"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        android:icon="@drawable/icon_about"
+        android:onClick="about"/>
+
+
+
+</menu>

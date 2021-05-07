@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Amit Kumar</string>
+    <string name="Button">OK</string>
+    <string name="array">Example 2</string>
+    <string name="slogo">slogo</string>
+
+    <string name="text1">Hi I\'m</string>
+    <string name="contact_me">Contact me</string>
+    <string name="download_cv">Download CV</string>
+    <string name="menu_button">Menu_Button</string>
+    <string name="menu">menu</string>
+    <string name="fb_logo">fb_logo</string>
+    <string name="icon_linked">icon_linked</string>
+    <string name="icon_youtube">icon_youtube</string>
+    <string name="icon_insta">icon_insta</string>
+    <string name="icon_git">icon_git</string>
+    <string name="icon_twitter">icon_twitter</string>
+    <string name="Icon_menu">Icon_menu</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="projects">Projects</string>
+    <string name="education">Education</string>
+
+    <string name="todo">TODO</string>
+    <string name="headtext">AmiT</string>
+    <string name="profile_photo">profile_photo</string>
+    <string name="profile_name">Amit Kumar</string>
+    <string name="image">image</string>
+    <string name="id_txt">id_txt</string>
+    <string name="imageView">imageView</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="data">
+        <item>AmiT</item>
+        <item>an Engineer</item>
+        <item>a Developer</item>
+        <item>a Designer</item>
+
+    </string-array>
+</resources>
