@@ -155,11 +155,6 @@ public class Projects extends AppCompatActivity {
     }
 
 
-
-
-
-
-
     public void profile(MenuItem item) {
 
         Intent pIntent = new Intent(this, MainActivity.class);

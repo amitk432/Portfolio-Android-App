@@ -28,5 +28,7 @@
     <string name="image">image</string>
     <string name="id_txt">id_txt</string>
     <string name="imageView">imageView</string>
+    <string name="splash_text">AmiT Kumar</string>
+    <string name="splash_image">splash_image</string>
 
 </resources>
